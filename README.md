@@ -1,4 +1,9 @@
-## Hi there 👋
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=yamazaki-yuki-23&show_icons=true&locale=ja&layout=compact&theme=chartreuse-dark" alt="Top Languages" /></p>
+
+<img src="https://github-readme-stats.vercel.app/api?username=yamazaki-yuki-23&show_icons=true&locale=ja&theme=chartreuse-dark" alt="GitHub Stats" width="410" /></p>
+
+<img src="https://github-profile-trophy.vercel.app/?username=yamazaki-yuki-23&theme=juicyfresh&no-bg=true" />
+
 
 <!--
 **yamazaki-yuki-23/yamazaki-yuki-23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
