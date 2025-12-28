@@ -16,6 +16,12 @@
   <a href="http://qiita.com/tamakiiii">
     <img height="20" src="https://qiita-badge.apiapi.app/s/tamakiiii/posts.svg" />
   </a>
+  <a href="https://zenn.dev/tamakiiii">
+    <img src="https://badgen.org/img/zenn/tamakiiii/likes?style=flat&label=Likes" alt="Likes" />
+  </a>
+  <a href="https://zenn.dev/tamakiiii">
+    <img src="https://badgen.org/img/zenn/tamakiiii/articles?style=flat&label=Articles" alt="Articles" />
+  </a>
   
   <!-- Label -->
   <img height="20" src="https://img.shields.io/badge/-Amazon%20AWS-232F3E.svg?logo=amazon-aws&style=flat" />
