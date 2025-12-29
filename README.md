@@ -7,9 +7,6 @@
   <a href="http://twitter.com/flashlight999">
     <img height="20" src="https://img.shields.io/twitter/follow/flashlight999?label=Twitter&logo=twitter&style=fla" />
   </a>
-  <a href="https://github.com/yamazaki-yuki-23">
-    <img height="20" src="https://img.shields.io/github/followers/yamazaki-yuki-23?label=follow&logo=github&style=flat" />
-  </a>
   <a href="https://qiita.com/tamakiiii">
     <img height="20" src="https://qiita-badge.apiapi.app/s/tamakiiii/contributions.svg" />
   </a>
